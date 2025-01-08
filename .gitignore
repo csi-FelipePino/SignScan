@@ -1,0 +1,3 @@
+# Ignorar todos los archivos de video en la carpeta dev
+dev/*.mp4
+
